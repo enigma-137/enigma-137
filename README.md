@@ -4,12 +4,11 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 Final year **Food Science & Technology** student  
-- 🌱 Currently learning **ML, AI, and Robotics**  
+##  About Me  
+-  Currently learning **ML, AI and DS**  
 - ⚙️ Building **NuWell** – a wellbeing app for nutrition & health
 -  🖋️ I write about **AI x Blockchain** applications  
-- 🤝 Open to collaborations in **AI, Food Tech, and Blockchain**  
+  
 
 ---
 
