@@ -8,7 +8,7 @@
 -  Currently learning **ML, AI, and DS**  
 -  Building **NuWell** – a wellbeing app for nutrition & health
 -  🖋️ I write about **AI x Blockchain** applications when I am bored,
--   Most times, I build just things 
+-   Most times, I just build things 
   
 
 ---
