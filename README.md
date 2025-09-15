@@ -18,26 +18,13 @@
   <img src="https://skillicons.dev/icons?i=python,r,react,nextjs,tailwind,js,ts,mongodb,prisma,git" />
 </p>
 
----
 
-##  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigma-137&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigma-137&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
 
 ##  Fun Facts   
 -  I am always learning something new (right now: **Machine Learning**)  
 -  Also a Big believer in **AI for health & nutrition** especially in Africa 
 
----
 
-## 📈 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=enigma-137&color=blue&style=flat-square)
-
----
 
 ## 💡 Quote I Live By  
 > “The future belongs to those who learn, adapt, and create with purpose.”  
