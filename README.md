@@ -4,11 +4,11 @@
 
 ---
 
-##  About Me  
+##  About Me 
+-  Software engineer
 -  Currently learning **ML, AI, and DS**  
 -  Building **NuWell** – a wellbeing app for nutrition & health
--  🖋️ I write about **AI x Blockchain** applications when I am bored,
--   Most times, I just build things 
+-  I just like to build things 
   
 
 ---
