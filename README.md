@@ -6,7 +6,6 @@
 
 ##  About Me 
 -  Software engineer
--  Currently learning **ML, AI, and DS**  
 -  Building **NuWell** – a wellbeing app for nutrition & health
 -  I just like to build things 
   
@@ -15,7 +14,7 @@
 
 ## Tech & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,react,nextjs,tailwind,js,ts,mongodb,prisma,git" />
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,js,ts,mongodb,prisma,git" />
 </p>
 
 
