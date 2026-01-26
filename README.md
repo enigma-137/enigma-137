@@ -20,7 +20,7 @@
 
 
 ##  Fun Facts   
--  I am always learning something new (right now: **Machine Learning**)  
+-  I am always learning something new (right now: **RUSTTT**)  
 -  Also a Big believer in **AI for health & nutrition** especially in Africa 
 
 
