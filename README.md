@@ -10,10 +10,7 @@
 
 ---
 
-## Tech & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,js,ts,mongodb,prisma,git" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enigma-137)](https://git.io/streak-stats)
 
 
 ---
