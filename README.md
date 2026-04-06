@@ -1,16 +1,15 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=1000&lines=Food+Scientist+%F0%9F%A5%AA+%7C+AI+%26+Blockchain+Writer+%F0%9F%92%AB;Building+NuWell+-+An+Advanced+Wellbeing+App+%F0%9F%A5%97;Aspiring+AI+Engineer+%F0%9F%94%96+%7C+ML+%26+Robotics+Enthusiast+%F0%9F%A4%96)
 
 ---
 
 ##  About Me 
--  I just like to build things 
+-  I just want to build things 
   
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enigma-137)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=enigma-137&theme=highcontrast&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 ---
