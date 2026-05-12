@@ -1,6 +1,4 @@
 
-
-##  About Me 
 -  I just want to build things 
   
 
