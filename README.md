@@ -1,9 +1,9 @@
-Live with curiosity. Build with purpose.
+<!-- Live with curiosity. Build with purpose.
 Everything we do, every time we are up, and every failure we encounter is part of becoming the person we once looked up to. Keep building, keep learning, and never underestimate what consistent effort can create.
 
 
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://commit-history.com/enigma-137">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/enigma-137?theme=dark" />
